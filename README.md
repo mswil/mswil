@@ -8,6 +8,7 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mswil&show_icons=true&theme=tokyonight"/>
 
+⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#9](https://github.com/mswil/just-tech-news/issues/9) in [mswil/just-tech-news](https://github.com/mswil/just-tech-news)
 2. 💪 Opened PR [#24](https://github.com/mswil/Dolphin-Group/pull/24) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
@@ -16,16 +17,12 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 5. 💪 Opened PR [#21](https://github.com/mswil/Dolphin-Group/pull/21) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
 <!--END_SECTION:activity-->
 
+<br>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mswil&layout=compact&theme=tokyonight"/>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Connect with Me
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" href="https://www.linkedin.com/in/molly-wilson-b55589206/"/>
+
 [LinkedIn](https://www.linkedin.com/in/molly-wilson-b55589206/)
