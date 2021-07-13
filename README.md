@@ -25,5 +25,3 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/molly-wilson-b55589206/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/maildotru.svg" />](mailto:molly_wilson1@outlook.com)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mswil&repo=dolphin-group&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
