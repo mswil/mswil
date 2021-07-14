@@ -10,11 +10,11 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/mswil/just-tech-news/issues/9) in [mswil/just-tech-news](https://github.com/mswil/just-tech-news)
-2. 💪 Opened PR [#24](https://github.com/mswil/Dolphin-Group/pull/24) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
-3. 🎉 Merged PR [#23](https://github.com/mswil/Dolphin-Group/pull/23) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
-4. 💪 Opened PR [#22](https://github.com/mswil/Dolphin-Group/pull/22) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
-5. 💪 Opened PR [#21](https://github.com/mswil/Dolphin-Group/pull/21) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
+1. ❗️ Opened issue [#1](https://github.com/mswil/pizza-hunt/issues/1) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
+2. ❗️ Closed issue [#9](https://github.com/mswil/just-tech-news/issues/9) in [mswil/just-tech-news](https://github.com/mswil/just-tech-news)
+3. 💪 Opened PR [#24](https://github.com/mswil/Dolphin-Group/pull/24) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
+4. 🎉 Merged PR [#23](https://github.com/mswil/Dolphin-Group/pull/23) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
+5. 💪 Opened PR [#22](https://github.com/mswil/Dolphin-Group/pull/22) in [mswil/Dolphin-Group](https://github.com/mswil/Dolphin-Group)
 <!--END_SECTION:activity-->
 
 <br>
