@@ -10,11 +10,11 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/mswil/pizza-hunt/issues/5) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
-2. ❗️ Closed issue [#4](https://github.com/mswil/pizza-hunt/issues/4) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
-3. ❗️ Opened issue [#4](https://github.com/mswil/pizza-hunt/issues/4) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
-4. ❗️ Closed issue [#3](https://github.com/mswil/pizza-hunt/issues/3) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
-5. ❗️ Closed issue [#2](https://github.com/mswil/pizza-hunt/issues/2) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
+1. ❗️ Closed issue [#5](https://github.com/mswil/pizza-hunt/issues/5) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
+2. ❗️ Opened issue [#5](https://github.com/mswil/pizza-hunt/issues/5) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
+3. ❗️ Closed issue [#4](https://github.com/mswil/pizza-hunt/issues/4) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
+4. ❗️ Opened issue [#4](https://github.com/mswil/pizza-hunt/issues/4) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
+5. ❗️ Closed issue [#3](https://github.com/mswil/pizza-hunt/issues/3) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
 <!--END_SECTION:activity-->
 
 <br>
