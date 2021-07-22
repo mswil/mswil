@@ -10,11 +10,11 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/mswil/food-festival/issues/1) in [mswil/food-festival](https://github.com/mswil/food-festival)
-2. ❗️ Opened issue [#3](https://github.com/mswil/food-festival/issues/3) in [mswil/food-festival](https://github.com/mswil/food-festival)
-3. ❗️ Opened issue [#2](https://github.com/mswil/food-festival/issues/2) in [mswil/food-festival](https://github.com/mswil/food-festival)
-4. ❗️ Opened issue [#1](https://github.com/mswil/food-festival/issues/1) in [mswil/food-festival](https://github.com/mswil/food-festival)
-5. ❗️ Closed issue [#5](https://github.com/mswil/pizza-hunt/issues/5) in [mswil/pizza-hunt](https://github.com/mswil/pizza-hunt)
+1. ❗️ Closed issue [#3](https://github.com/mswil/food-festival/issues/3) in [mswil/food-festival](https://github.com/mswil/food-festival)
+2. ❗️ Closed issue [#2](https://github.com/mswil/food-festival/issues/2) in [mswil/food-festival](https://github.com/mswil/food-festival)
+3. ❗️ Closed issue [#1](https://github.com/mswil/food-festival/issues/1) in [mswil/food-festival](https://github.com/mswil/food-festival)
+4. ❗️ Opened issue [#3](https://github.com/mswil/food-festival/issues/3) in [mswil/food-festival](https://github.com/mswil/food-festival)
+5. ❗️ Opened issue [#2](https://github.com/mswil/food-festival/issues/2) in [mswil/food-festival](https://github.com/mswil/food-festival)
 <!--END_SECTION:activity-->
 
 <br>
