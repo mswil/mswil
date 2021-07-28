@@ -10,11 +10,11 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/mswil/photo-port/issues/4) in [mswil/photo-port](https://github.com/mswil/photo-port)
-2. ❗️ Opened issue [#3](https://github.com/mswil/photo-port/issues/3) in [mswil/photo-port](https://github.com/mswil/photo-port)
-3. ❗️ Opened issue [#2](https://github.com/mswil/photo-port/issues/2) in [mswil/photo-port](https://github.com/mswil/photo-port)
-4. ❗️ Opened issue [#1](https://github.com/mswil/photo-port/issues/1) in [mswil/photo-port](https://github.com/mswil/photo-port)
-5. ❗️ Closed issue [#3](https://github.com/mswil/food-festival/issues/3) in [mswil/food-festival](https://github.com/mswil/food-festival)
+1. ❗️ Closed issue [#2](https://github.com/mswil/photo-port/issues/2) in [mswil/photo-port](https://github.com/mswil/photo-port)
+2. ❗️ Closed issue [#1](https://github.com/mswil/photo-port/issues/1) in [mswil/photo-port](https://github.com/mswil/photo-port)
+3. ❗️ Opened issue [#4](https://github.com/mswil/photo-port/issues/4) in [mswil/photo-port](https://github.com/mswil/photo-port)
+4. ❗️ Opened issue [#3](https://github.com/mswil/photo-port/issues/3) in [mswil/photo-port](https://github.com/mswil/photo-port)
+5. ❗️ Opened issue [#2](https://github.com/mswil/photo-port/issues/2) in [mswil/photo-port](https://github.com/mswil/photo-port)
 <!--END_SECTION:activity-->
 
 <br>
