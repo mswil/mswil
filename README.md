@@ -10,11 +10,11 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/mswil/photo-port/issues/4) in [mswil/photo-port](https://github.com/mswil/photo-port)
-2. ❗️ Closed issue [#3](https://github.com/mswil/photo-port/issues/3) in [mswil/photo-port](https://github.com/mswil/photo-port)
-3. ❗️ Closed issue [#2](https://github.com/mswil/photo-port/issues/2) in [mswil/photo-port](https://github.com/mswil/photo-port)
-4. ❗️ Closed issue [#1](https://github.com/mswil/photo-port/issues/1) in [mswil/photo-port](https://github.com/mswil/photo-port)
-5. ❗️ Opened issue [#4](https://github.com/mswil/photo-port/issues/4) in [mswil/photo-port](https://github.com/mswil/photo-port)
+1. ❗️ Opened issue [#6](https://github.com/mswil/deep-thoughts/issues/6) in [mswil/deep-thoughts](https://github.com/mswil/deep-thoughts)
+2. ❗️ Opened issue [#5](https://github.com/mswil/deep-thoughts/issues/5) in [mswil/deep-thoughts](https://github.com/mswil/deep-thoughts)
+3. ❗️ Opened issue [#4](https://github.com/mswil/deep-thoughts/issues/4) in [mswil/deep-thoughts](https://github.com/mswil/deep-thoughts)
+4. ❗️ Opened issue [#3](https://github.com/mswil/deep-thoughts/issues/3) in [mswil/deep-thoughts](https://github.com/mswil/deep-thoughts)
+5. ❗️ Opened issue [#2](https://github.com/mswil/deep-thoughts/issues/2) in [mswil/deep-thoughts](https://github.com/mswil/deep-thoughts)
 <!--END_SECTION:activity-->
 
 <br>
