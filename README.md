@@ -10,11 +10,11 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/mswil/shop-shop/issues/3) in [mswil/shop-shop](https://github.com/mswil/shop-shop)
-2. ❗️ Closed issue [#2](https://github.com/mswil/shop-shop/issues/2) in [mswil/shop-shop](https://github.com/mswil/shop-shop)
-3. ❗️ Closed issue [#1](https://github.com/mswil/shop-shop/issues/1) in [mswil/shop-shop](https://github.com/mswil/shop-shop)
-4. ❗️ Opened issue [#4](https://github.com/mswil/shop-shop/issues/4) in [mswil/shop-shop](https://github.com/mswil/shop-shop)
-5. ❗️ Opened issue [#3](https://github.com/mswil/shop-shop/issues/3) in [mswil/shop-shop](https://github.com/mswil/shop-shop)
+1. ❗️ Opened issue [#5](https://github.com/JohnWDevine85/Group6_Skindeep/issues/5) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+2. ❗️ Opened issue [#4](https://github.com/JohnWDevine85/Group6_Skindeep/issues/4) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+3. ❗️ Opened issue [#3](https://github.com/JohnWDevine85/Group6_Skindeep/issues/3) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+4. ❗️ Closed issue [#3](https://github.com/mswil/shop-shop/issues/3) in [mswil/shop-shop](https://github.com/mswil/shop-shop)
+5. ❗️ Closed issue [#2](https://github.com/mswil/shop-shop/issues/2) in [mswil/shop-shop](https://github.com/mswil/shop-shop)
 <!--END_SECTION:activity-->
 
 <br>
