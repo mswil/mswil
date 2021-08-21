@@ -10,11 +10,11 @@ Grew up in Cypress, Texas. Met my huband in Waco and we've been living in the Da
 
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/JohnWDevine85/Group6_Skindeep/pull/15) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
-2. 🗣 Commented on [#4](https://github.com/JohnWDevine85/Group6_Skindeep/issues/4) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
-3. 🗣 Commented on [#3](https://github.com/JohnWDevine85/Group6_Skindeep/issues/3) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
-4. ❗️ Opened issue [#14](https://github.com/JohnWDevine85/Group6_Skindeep/issues/14) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
-5. ❗️ Opened issue [#13](https://github.com/JohnWDevine85/Group6_Skindeep/issues/13) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+1. 🎉 Merged PR [#15](https://github.com/JohnWDevine85/Group6_Skindeep/pull/15) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+2. 💪 Opened PR [#15](https://github.com/JohnWDevine85/Group6_Skindeep/pull/15) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+3. 🗣 Commented on [#4](https://github.com/JohnWDevine85/Group6_Skindeep/issues/4) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+4. 🗣 Commented on [#3](https://github.com/JohnWDevine85/Group6_Skindeep/issues/3) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
+5. ❗️ Opened issue [#14](https://github.com/JohnWDevine85/Group6_Skindeep/issues/14) in [JohnWDevine85/Group6_Skindeep](https://github.com/JohnWDevine85/Group6_Skindeep)
 <!--END_SECTION:activity-->
 
 <br>
